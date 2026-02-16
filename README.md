@@ -1,4 +1,4 @@
-# IPL Match & Player Performance Analysis
+# IPLytics
 
 This project analyzes 600+ IPL matches (2008–2019) using Python to evaluate player performance and match-winning metrics.
 
